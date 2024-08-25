@@ -39,6 +39,19 @@ bash
 Copy code
 npm install
 Run the development server:
+Below is the screenshots of my created work :
+1)![Screenshot (168)](https://github.com/user-attachments/assets/6e9aaaec-5683-4253-8429-6f38069d79fa)
+2)![Screenshot (169)](https://github.com/user-attachments/assets/d745d9a3-de58-4717-994e-792f79e62365)
+3)![Screenshot (170)](https://github.com/user-attachments/assets/045dcf48-c04f-42fa-9039-d05924b6dc2b)
+4)![Screenshot (171)](https://github.com/user-attachments/assets/936d87e3-dd28-4eb4-9530-63c52f70f11d)
+5)![Screenshot (172)](https://github.com/user-attachments/assets/5a2245da-9f27-4c6a-8a61-20e3a921b24e)
+
+
+
+
+![Screenshot (169)](https://github.com/user-attachments/assets/a728c40d-8ccd-403e-9ef2-5071f5ab3035)
+
+
 bash
 Copy code
 npm run dev
