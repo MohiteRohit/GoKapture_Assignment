@@ -33,6 +33,7 @@ Navigate to the project directory:
 bash
 Copy code
 cd spreadsheet-app
+
 Install dependencies:
 bash
 Copy code
