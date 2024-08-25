@@ -14,9 +14,13 @@ State Management: The application uses zustand for managing the state of cells a
 
 Tech Stack:
 Next.js: For server-side rendering and optimized performance.
+
 React: As the frontend framework.
-Tailwind CSS: For styling and UI design.
+
+Tailwind CSS: For styling and UI design
+.
 zustand: For state management.
+
 file-saver: For exporting files.
 
 
